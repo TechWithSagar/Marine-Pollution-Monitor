@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+requests
+ibm-boto3
+ibm-botocore
+ibm-watson-machine-learning
+streamlit
+python-dotenv
+joblib
+matplotlib
+seaborn
+project-lib
